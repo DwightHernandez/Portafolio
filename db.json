@@ -1,17 +1,55 @@
 {
-  "Nombre": [
-
+  "nombre": [
+    {
+      "id": 1,
+      "nombre": "Jorge",
+      "apellido": "Gonzalez"
+    }
   ],
+  "proyectos": [
+    {
+      "id": 1,
+      "nombreP": "Proyecto 1",
+      "descripcion": "Proyecto 1",
+      "urlRepo": "https://github.com/CampusLands/portafolio.git",
+      "urlDemo": "https://github.com/CampusLands/portafolio.git",
+      "urlImg": "https://github.com/CampusLands/portafolio.git"
+    },
 
-  "Proyectos": [
-    
+    {
+      "id": 2,
+      "nombreP": "Proyecto 2",
+      "descripcion": "Proyecto 2",
+      "urlRepo": "https://github.com/CampusLands/portafolio.git",
+      "urlDemo": "https://github.com/CampusLands/portafolio.git",
+      "urlImg": "https://github.com/CampusLands/portafolio.git"
+    },
+
+{
+      "id": 1,
+      "nombreP": "Proyecto 3",
+      "descripcion": "Proyecto 3",
+      "urlRepo": "https://github.com/CampusLands/portafolio.git",
+      "urlDemo": "https://github.com/CampusLands/portafolio.git",
+      "urlImg": "https://github.com/CampusLands/portafolio.git"
+    }
   ],
-
-  "Habilidades": [
-    
-  ],
-
-  "Contacto":[
-    
+  "habilidades": [],
+  "contacto": [
+    {
+      "id": 1,
+      "red": "github",
+      "urlgit": "https://github.com/CampusLands/portafolio.git"
+    },
+    {
+      "id": 1,
+      "red": "linkedin",
+      "urlLink": "https://github.com/CampusLands/portafolio.git"
+    },
+    {
+      "id": 1,
+      "red": "email",
+      "urlEmail": "https://github.com/CampusLands/portafolio.git"
+    }
   ]
 }
